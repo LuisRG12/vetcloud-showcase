@@ -12,8 +12,7 @@
 
 VetCloud es una plataforma integral de gestión para clínicas veterinarias
 en Colombia: pacientes, agendamiento, historia clínica, hospitalización,
-inventario y facturación electrónica, en un solo sistema en vez de
-Excel, WhatsApp y papel repartidos entre áreas.
+inventario y facturación electrónica, en un solo sistema.
 
 ## Qué incluye
 
